@@ -4,7 +4,7 @@
 
 Me especializo en construir productos **SaaS escalables** desde cero, liderando equipos técnicos y tomando decisiones de arquitectura de alto nivel. Me apasiona el ecosistema de **React**, **TypeScript** y el desarrollo de backends eficientes con **Python** y **Node.js**.
 
-- 🚀 Actualmente escalando [TenloListo](https://tenlolisto.com) (Ecosistema SaaS para comercio local).
+- 🚀 Actualmente escalando [TenloListo](https://beta.tenlolisto.com) (Ecosistema SaaS para comercio local).
 - 🛠️ Mi stack principal: **Next.js 15, React 19, FastAPI, Supabase (PostgreSQL)**.
 - 🌍 Disponible para proyectos **Remote / Freelance**.
 
