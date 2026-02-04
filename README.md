@@ -35,6 +35,6 @@ Me especializo en construir productos **SaaS escalables** desde cero, liderando 
 ---
 
 ### 📫 Conecta conmigo
-[LinkedIn](https://cu.linkedin.com/yohan-ryuking-4439a4272) | [Email](mailto:yohanryuking@gmail.com)
+[WhatsApp](https://wa.me/5356060886) | [Email](mailto:yohanryuking@gmail.com)
 
 *"Transformando ideas complejas en soluciones digitales robustas."*
