@@ -28,9 +28,10 @@ Me especializo en construir productos **SaaS escalables** desde cero, liderando 
 ### 📊 Mis Estadísticas
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yohanryuking&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="yohanryuking stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohanryuking&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="top langs" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yohanryuking&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yohanryuking&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="150" alt="top langs" />
 </p>
+
 
 ---
 
